@@ -1,0 +1,9 @@
+{
+  "name": "WAQIBYX AI System",
+  "description": "A cutting-edge multimodal AI assistant with real-time voice, vision, and deep neural memory. Features tiered subscriptions, custom personas, and advanced admin controls.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
